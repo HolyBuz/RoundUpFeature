@@ -1,0 +1,46 @@
+{
+  "feedItems": [
+    {
+      "feedItemUid": "11221122-1122-1122-1122-112211221122",
+      "categoryUid": "ccddccdd-ccdd-ccdd-ccdd-ccddccddccdd",
+      "amount": {
+        "currency": "GBP",
+        "minorUnits": 123456
+      },
+      "sourceAmount": {
+        "currency": "GBP",
+        "minorUnits": 123456
+      },
+      "direction": "IN",
+      "updatedAt": "2020-06-14T17:59:40.548Z",
+      "transactionTime": "2020-06-14T17:59:40.548Z",
+      "settlementTime": "2020-06-14T17:59:40.548Z",
+      "retryAllocationUntilTime": "2020-06-14T17:59:40.548Z",
+      "source": "MASTER_CARD",
+      "sourceSubType": "CONTACTLESS",
+      "status": "PENDING",
+      "transactingApplicationUserUid": "aaaaaaaa-aaaa-4aaa-aaaa-aaaaaaaaaaaa",
+      "counterPartyType": "MERCHANT",
+      "counterPartyUid": "68e16af4-c2c3-413b-bf93-1056b90097fa",
+      "counterPartyName": "Tesco",
+      "counterPartySubEntityUid": "35d46207-d90e-483c-a40a-128cc4da4bee",
+      "counterPartySubEntityName": "Tesco Southampton",
+      "counterPartySubEntityIdentifier": "608371",
+      "counterPartySubEntitySubIdentifier": "01234567",
+      "exchangeRate": 0,
+      "totalFees": 0,
+      "reference": "TESCO-STORES-6148      SOUTHAMPTON   GBR",
+      "country": "GB",
+      "spendingCategory": "GROCERIES",
+      "userNote": "Tax deductable, submit me to payroll",
+      "roundUp": {
+        "goalCategoryUid": "68e16af4-c2c3-413b-bf93-1056b90097fa",
+        "amount": {
+          "currency": "GBP",
+          "minorUnits": 123456
+        }
+      },
+      "hasAttachment": true
+    }
+  ]
+}
