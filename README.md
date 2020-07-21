@@ -1,2 +1,2 @@
 # RoundUpFeature
-Alessandro Loi's Starling Bank iOS Technical Test.
+Playing around with Starling Bank's API sandbox.
